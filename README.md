@@ -1,5 +1,5 @@
 # zen_shape_animation
-the like button effect from youtube shorts
+a relaxing home page splash screen animation
 
 the idea is taken from this youtube video
 https://www.youtube.com/watch?v=dhfQnmGXSwU
